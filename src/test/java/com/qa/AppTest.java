@@ -3,7 +3,7 @@ package com.qa;
 import org.junit.jupiter.api.Test;
 import static com.qa.App.sayHello;
 import static org.junit.jupiter.api.Assertions.*;
-
+import static com.qa.App.sayGoodMorning;
 /**
  * Unit test for simple App.
  */
