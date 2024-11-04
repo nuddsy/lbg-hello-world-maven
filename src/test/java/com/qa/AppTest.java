@@ -48,7 +48,7 @@ public class AppTest
     public void test_sayGoodMorning_should_return_Good_Morning() {
         //Arrange
         String actualResponse = "";
-        String expectedResponse = "Good Morning"
+        String expectedResponse = "Good Morning";
 
         //Act
         actualResponse = sayGoodMorning();
